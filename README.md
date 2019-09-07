@@ -1,5 +1,2 @@
 # merix
-moblemerix
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-
-;lk';clkkd;lkd;lkd;ldkidipoviuporfigbopidfpbidfgp[bipgfii
+This IS a Test Function
